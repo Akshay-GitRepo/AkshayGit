@@ -20,4 +20,11 @@ open pull request
 select review 
 create pull request
 copy link 
+
 ---done---
+git tag : To set a version for the file (example : v0.1,v0.2)
+git log --oneline : It is used to see all tags which are commited.
+git log --graph :
+git log --graph --oneline :
+
+
